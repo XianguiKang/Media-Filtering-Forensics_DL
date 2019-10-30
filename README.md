@@ -1,5 +1,6 @@
 # Media-Filtering-Forensics_DL
- Caffe implementation of [Median Filtering Forensics Based on Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/7113799)
+ Caffe implementation of [Median Filtering Forensics Based on Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/7113799).  
+ PDF version in [here](./demo/pdf/07113799.pdf).
  
  ## How to use
  **Requirments**: [Caffe toolbox](http://caffe.berkeleyvision.org/)  
